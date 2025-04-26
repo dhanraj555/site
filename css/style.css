@@ -1,0 +1,35 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    background-color:rgba(0, 0, 0, 0.5);
+   
+    color: white;
+    padding-left: 10px;
+    padding-right: 0px;
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 40px;
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 10px
+}
+header{
+    background-image: url("../images/4.jpg");
+    height: 420px;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+
+}
